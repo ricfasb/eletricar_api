@@ -1,0 +1,15 @@
+*.pyc
+*.bak
+db.sqlite3
+main/settings/custom.py
+.env
+.idea/
+*.mo
+.vs/
+
+media
+site-static/
+node_modules/
+main/static/vendors/
+main/static/css/
+docs/_build/
